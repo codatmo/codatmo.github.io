@@ -1,4 +1,4 @@
-## Welcome to the CODAMO site
+## Welcome to the CODATMO site
 
 CODAMO (COvid DATa MOdel) exists to host COVID-19 models written in the Bayesian modeling language Stan. The goals include:
 - Provide a common language for implementing various models.
