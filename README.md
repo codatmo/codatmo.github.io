@@ -13,6 +13,9 @@ This site is supported by NSF RAPID grant 2055251. The opinions, findings, and c
 
 Email: Breck Baldwin, fbb2116@columbia.edu. 
 
-Principle Investigator: Andrew Gelman
+## Leadership
+
+Columbia: Andrew Gelman (NSF PI)
+Liverpool: Simon Maskell
 
 
