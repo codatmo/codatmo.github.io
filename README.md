@@ -13,7 +13,7 @@ This site is supported by NSF RAPID grant 2055251. The opinions, findings, and c
 
 ## Contact
 
-Email: Breck Baldwin, fbb2116@columbia.edu. 
+Email: Breck Baldwin, breckbaldwin@gmail.com 
 
 ## Leadership
 
