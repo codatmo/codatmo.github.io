@@ -19,5 +19,5 @@ Email: Breck Baldwin, breckbaldwin@gmail.com
 
 - Columbia: Andrew Gelman (NSF PI)
 - Liverpool: Simon Maskell (Liverpool PI)
-- UNINOVE-Brazil: Jose StoroPoli (Universidade Nove de Julho PI)
+- UNINOVE-Brazil: Jose Storopoli (Universidade Nove de Julho PI)
 
