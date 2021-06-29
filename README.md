@@ -17,7 +17,7 @@ Email: Breck Baldwin, breckbaldwin@gmail.com
 
 ## Leadership
 
-Columbia: Andrew Gelman (NSF PI)
-Liverpool: Simon Maskell (Liverpool PI)
+- Columbia: Andrew Gelman (NSF PI)
+- Liverpool: Simon Maskell (Liverpool PI)
 
 
